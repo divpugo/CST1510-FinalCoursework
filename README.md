@@ -66,6 +66,5 @@ python server.py
 Assurez-vous que les scripts client et serveur fonctionnent simultanément pour une fonctionnalité complète.
 
 ## Technologies Utilisées
-
 -**Python :** Langage de programmation principal utilisé pour le développement côté client et serveur.
 -**Tkinter :** Pour créer l'interface graphique.

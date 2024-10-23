@@ -27,8 +27,8 @@ python server.py
 Ensure both client and server scripts are running simultaneously for full functionality.
 
 ## Technologies used
--**Python:** Main programming language used for both client and server-side development.
--**Tkinter:** For creating the graphical user interface.
+- **Python:** Main programming language used for both client and server-side development.
+- **Tkinter:** For creating the graphical user interface.
 
 ---
 
@@ -39,20 +39,20 @@ Ce dépôt contient le code pour "Coffee Beans", un système logiciel client/ser
 
 ## Fonctionnalités
 
--**Interface Utilisateur :** Lance avec un message de bienvenue sur la page principale.
--**Sélection de Produits :** Affiche les détails des produits tels que l'ID, le prix, et la quantité. Inclut une représentation graphique des niveaux de stock.
--**Gestion des Commandes :** Permet aux utilisateurs d'ajouter des produits à leur panier, de revoir le résumé de la transaction, et de modifier les commandes avant de finaliser le paiement.
--**Options de Paiement :** Prend en charge les transactions par espèces ou carte, fournissant des calculs de monnaie pour les paiements en espèces.
--**Finalisation de la Transaction :** Affiche un reçu virtuel avec des informations détaillées sur la commande et le paiement, suivi d'un message de remerciement.
+- **Interface Utilisateur :** Lance avec un message de bienvenue sur la page principale.
+- **Sélection de Produits :** Affiche les détails des produits tels que l'ID, le prix, et la quantité. Inclut une représentation graphique des niveaux de stock.
+- **Gestion des Commandes :** Permet aux utilisateurs d'ajouter des produits à leur panier, de revoir le résumé de la transaction, et de modifier les commandes avant de finaliser le paiement.
+- **Options de Paiement :** Prend en charge les transactions par espèces ou carte, fournissant des calculs de monnaie pour les paiements en espèces.
+- **Finalisation de la Transaction :** Affiche un reçu virtuel avec des informations détaillées sur la commande et le paiement, suivi d'un message de remerciement.
 
 ## Opérations Système
 
--**Démarrage :** Ouvre la page principale avec un accueil chaleureux.
--**Choix du Produit :** Les utilisateurs peuvent sélectionner des produits, voir les détails et choisir les quantités.
--**Modifier le Panier :** Options pour ajouter plus de produits, terminer l'achat, ou annuler la transaction.
--**Paiement :** Après avoir sélectionné "Terminer et Payer", les utilisateurs passent en revue leur reçu virtuel et procèdent au paiement.
--**Processus de Paiement :** Options de paiement par espèces ou carte. Si paiement en espèces, la machine calcule et affiche la monnaie.
--**Achèvement :** Après le paiement, un message de remerciement apparaît et le système se réinitialise pour le prochain utilisateur.
+- **Démarrage :** Ouvre la page principale avec un accueil chaleureux.
+- **Choix du Produit :** Les utilisateurs peuvent sélectionner des produits, voir les détails et choisir les quantités.
+- **Modifier le Panier :** Options pour ajouter plus de produits, terminer l'achat, ou annuler la transaction.
+- **Paiement :** Après avoir sélectionné "Terminer et Payer", les utilisateurs passent en revue leur reçu virtuel et procèdent au paiement.
+- **Processus de Paiement :** Options de paiement par espèces ou carte. Si paiement en espèces, la machine calcule et affiche la monnaie.
+- **Achèvement :** Après le paiement, un message de remerciement apparaît et le système se réinitialise pour le prochain utilisateur.
 
 ## Pour Commencer
 
